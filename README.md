@@ -37,25 +37,15 @@
 
 <hr>
 
-#웹·앱 시연 영상
+# 웹·앱 시연 영상
 
 ### 웹 시연
-<table>
-  <tr>
-    <td>기능 설명</td>
-    <td>미리보기</td>
-  </tr>
-  <tr>
-    <td>회원가입</td>
-    <td><img src="https://github.com/user-attachments/assets/76c0ccd3-fa6b-4fda-8208-860d8da0f214"></td>
-  </tr>
-  <tr>
-    <td>로그인</td>
-    <td><img src="https://github.com/user-attachments/assets/015f43a1-eed5-417e-bff3-273e9e4c6fd7"></td>
-  </tr>
-</table>
 
+https://github.com/user-attachments/assets/6d415387-ff98-462d-949e-39a2138518bc
 
+https://github.com/user-attachments/assets/a87fb019-9874-4fce-aab0-a9e6caad27d0
+
+https://github.com/user-attachments/assets/c6da9b27-f67f-41f4-b873-b386ac0bb5c3
 
 
 <hr>
