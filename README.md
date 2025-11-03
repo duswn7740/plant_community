@@ -88,5 +88,6 @@ https://github.com/user-attachments/assets/0fed67e2-0da9-4798-9179-92972ff551d4
 https://github.com/user-attachments/assets/6187bd3d-b7f0-4a54-9ccd-dff0ba23fcad
 
 **Expo SDK 53부터 Expo Go에서는 푸시 알림을 지원하지 않음**
-백엔드 콘솔로 테스트함
+<br>
+대신 백엔드 콘솔로 테스트함
 
