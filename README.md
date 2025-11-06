@@ -38,7 +38,7 @@ GitHerb는 라즈베리파이와 각종 센서를 활용한 **스마트 식물 �
 <hr>
 
 # 기술 스택
-Spring Boot 3.4 | Java 17 | MyBatis | MariaDB | WebSocket
+React Native | React | Spring Boot 3.4 | Java 17 | MyBatis | MariaDB | WebSocket
 <hr>
 
 
