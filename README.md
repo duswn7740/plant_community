@@ -71,15 +71,15 @@ React Native | React | Spring Boot 3.4 | Java 17 | MyBatis | MariaDB | WebSocket
 <!-- 회원가입 -->
 [![내 유튜브 영상](https://img.youtube.com/vi/buQFYbEJKOc/0.jpg)](https://www.youtube.com/https://youtu.be/buQFYbEJKOc)
 #### 회원가입하기
-<br>
+
 <!-- 회원권한별 로그인 -->
 [![내 유튜브 영상](https://img.youtube.com/vi/97Jgj4np1xw/0.jpg)](https://www.youtube.com/https://youtu.be/97Jgj4np1xw)
 #### 회원 권한 별 로그인하기
-<br>
+
 <!-- 캘린더 -->
 [![내 유튜브 영상](https://img.youtube.com/vi/IeykvDf0TVI/0.jpg)](https://www.youtube.com/https://youtu.be/IeykvDf0TVI)
 #### 캘린더 관수 일정 등록, 삭제, 일기쓰기
-<br>
+
 <!-- 1:1문의 -->
 [![내 유튜브 영상](https://img.youtube.com/vi/-_o8LR4nYVo/0.jpg)](https://www.youtube.com/https://youtu.be/-_o8LR4nYVo)
 #### 1:1문의하기
@@ -91,11 +91,11 @@ React Native | React | Spring Boot 3.4 | Java 17 | MyBatis | MariaDB | WebSocket
 <!-- 회원 프로필 수정 -->
 [![내 유튜브 영상](https://img.youtube.com/vi/P3RwCDfhrLc/0.jpg)](https://www.youtube.com/https://youtube.com/shorts/P3RwCDfhrLc?feature=share)
 #### 회원 프로필 사진 수정하기 
-<br>
+
 <!-- 회원권한별 로그인 -->
 [![내 유튜브 영상](https://img.youtube.com/vi/5AsbFHjJVWc/0.jpg)](https://www.youtube.com/https://youtube.com/shorts/5AsbFHjJVWc?feature=share)
 #### 회원 권한별 로그인하기
-<br>
+
 <!-- 앱푸시알람 간이 -->
 [![내 유튜브 영상](https://img.youtube.com/vi/BypKq62IS88/0.jpg)](https://www.youtube.com/https://youtu.be/BypKq62IS88)
 #### 앱푸시 알람
