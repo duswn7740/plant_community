@@ -69,15 +69,15 @@ React Native | React | Spring Boot 3.4 | Java 17 | MyBatis | MariaDB | WebSocket
 
 ### 웹 시연
 <!-- 회원가입 -->
-[![Video Label](http://img.youtube.com/vi/buQFYbEJKOc/0.jpg)](https://www.youtube.com/https://youtu.be/buQFYbEJKOc)
+[![Video Label](http://img.youtube.com/vi/buQFYbEJKOc/0.jpg)](https://youtu.be/buQFYbEJKOc)
 #### 회원가입하기
 
 <!-- 회원권한별 로그인 -->
-[![Video Label](http://img.youtube.com/vi/97Jgj4np1xw/0.jpg)](https://www.youtube.com/https://youtu.be/97Jgj4np1xw)
+[![Video Label](http://img.youtube.com/vi/97Jgj4np1xw/0.jpg)](https://youtu.be/97Jgj4np1xw)
 #### 회원 권한 별 로그인하기
 
 <!-- 캘린더 -->
-[![Video Label](http://img.youtube.com/vi/IeykvDf0TVI/0.jpg)](https://www.youtube.com/https://youtu.be/IeykvDf0TVI)
+[![Video Label](http://img.youtube.com/vi/IeykvDf0TVI/0.jpg)](https://youtu.be/IeykvDf0TVI)
 #### 캘린더 관수 일정 등록, 삭제, 일기쓰기
 
 <!-- 1:1문의 -->
@@ -89,15 +89,15 @@ React Native | React | Spring Boot 3.4 | Java 17 | MyBatis | MariaDB | WebSocket
 ### 앱 시연
 
 <!-- 회원 프로필 수정 -->
-[![Video Label](http://img.youtube.com/vi/P3RwCDfhrLc/0.jpg)](https://www.youtube.com/https://youtube.com/shorts/P3RwCDfhrLc?feature=share)
+[![Video Label](http://img.youtube.com/vi/P3RwCDfhrLc/0.jpg)](https://youtube.com/shorts/P3RwCDfhrLc?feature=share)
 #### 회원 프로필 사진 수정하기 
 
 <!-- 회원권한별 로그인 -->
-[![Video Label](http://img.youtube.com/vi/5AsbFHjJVWc/0.jpg)](https://www.youtube.com/https://youtube.com/shorts/5AsbFHjJVWc?feature=share)
+[![Video Label](http://img.youtube.com/vi/5AsbFHjJVWc/0.jpg)](https://youtube.com/shorts/5AsbFHjJVWc?feature=share)
 #### 회원 권한별 로그인하기
 
 <!-- 앱푸시알람 간이 -->
-[![Video Label](http://img.youtube.com/vi/BypKq62IS88/0.jpg)](https://www.youtube.com/https://youtu.be/BypKq62IS88)
+[![Video Label](http://img.youtube.com/vi/BypKq62IS88/0.jpg)](https://youtu.be/BypKq62IS88)
 
 #### 앱푸시 알람
 
