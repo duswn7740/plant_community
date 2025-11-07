@@ -69,23 +69,36 @@ React Native | React | Spring Boot 3.4 | Java 17 | MyBatis | MariaDB | WebSocket
 
 ### 웹 시연
 <!-- 회원가입 -->
-https://github.com/user-attachments/assets/6d415387-ff98-462d-949e-39a2138518bc
-<!-- 회원권한별 로그인 -->
-https://github.com/user-attachments/assets/a87fb019-9874-4fce-aab0-a9e6caad27d0
-<!-- 캘린더 -->
-https://github.com/user-attachments/assets/c6da9b27-f67f-41f4-b873-b386ac0bb5c3
+[![내 유튜브 영상](https://img.youtube.com/vi/buQFYbEJKOc/0.jpg)](https://www.youtube.com/https://youtu.be/buQFYbEJKOc)
+### 회원가입하기
 
+<!-- 회원권한별 로그인 -->
+[![내 유튜브 영상](https://img.youtube.com/vi/97Jgj4np1xw/0.jpg)](https://www.youtube.com/https://youtu.be/97Jgj4np1xw)
+#### 회원 권한 별 로그인하기
+
+<!-- 캘린더 -->
+[![내 유튜브 영상](https://img.youtube.com/vi/IeykvDf0TVI/0.jpg)](https://www.youtube.com/https://youtu.be/IeykvDf0TVI)
+#### 캘린더 관수 일정 등록, 삭제, 일기쓰기
+
+<!-- 1:1문의 -->
+[![내 유튜브 영상](https://img.youtube.com/vi/-_o8LR4nYVo/0.jpg)](https://www.youtube.com/https://youtu.be/-_o8LR4nYVo)
+#### 1:1문의하기
 
 <hr>
 
 ### 앱 시연
 
-<!-- 회원정보수정 -->
-https://github.com/user-attachments/assets/749d713a-70d2-4656-9692-4893554e6cf2
+<!-- 회원 프로필 수정 -->
+[![내 유튜브 영상](https://img.youtube.com/vi/P3RwCDfhrLc/0.jpg)](https://www.youtube.com/https://youtube.com/shorts/P3RwCDfhrLc?feature=share)
+#### 회원 프로필 사진 수정하기 
+
 <!-- 회원권한별 로그인 -->
-https://github.com/user-attachments/assets/0fed67e2-0da9-4798-9179-92972ff551d4
+[![내 유튜브 영상](https://img.youtube.com/vi/5AsbFHjJVWc/0.jpg)](https://www.youtube.com/https://youtube.com/shorts/5AsbFHjJVWc?feature=share)
+#### 회원 권한별 로그인하기
+
 <!-- 앱푸시알람 간이 -->
-https://github.com/user-attachments/assets/6187bd3d-b7f0-4a54-9ccd-dff0ba23fcad
+[![내 유튜브 영상](https://img.youtube.com/vi/BypKq62IS88/0.jpg)](https://www.youtube.com/https://youtu.be/BypKq62IS88)
+#### 앱푸시 알람
 
 **Expo SDK 53부터 Expo Go에서는 푸시 알림을 지원하지 않음**
 <br>
